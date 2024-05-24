@@ -3,6 +3,7 @@
     "editor.lightbulb.enabled": "off",
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
+    "editor.tabSize": 2,
     "git.confirmSync": false,
     "livePreview.customExternalBrowser": "Chrome",
     "livePreview.openPreviewTarget": "External Browser",
