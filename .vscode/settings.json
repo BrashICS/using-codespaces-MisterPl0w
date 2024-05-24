@@ -1,8 +1,11 @@
 {
     "editor.autoClosingQuotes": "never",
-    "editor.lightbulb.enabled": false,
+    "editor.lightbulb.enabled": "off",
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
+    "git.confirmSync": false,
+    "livePreview.customExternalBrowser": "Chrome",
+    "livePreview.openPreviewTarget": "External Browser",
     "extensions.ignoreRecommendations": true,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
