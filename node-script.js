@@ -10,7 +10,7 @@ function main() {
     console.log("\nThe future is now. Codespaces changes everything.\n");
 
     for (let x = 0; x < 5; x++) {
-        console.log("No go code something!");
+        console.log("Now go code something!");
     }
 }
 
