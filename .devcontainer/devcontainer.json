@@ -11,6 +11,9 @@
 				"CS50.extension-uninstaller",
 				"CS50.vscode-presentation-mode"
 			]
+		},
+		"settings": {
+			"workbench.welcomePage.walkthroughs.openOnInstall": false
 		}
 	}
 }

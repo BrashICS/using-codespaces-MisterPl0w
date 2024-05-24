@@ -26,6 +26,5 @@
     ],
     "extension-uninstaller.skip": [
         "CS50.extension-uninstaller"
-    ],
-    "workbench.welcomePage.walkthroughs.openOnInstall": false
+    ]
 }
